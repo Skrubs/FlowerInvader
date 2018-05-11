@@ -1,0 +1,13 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+
+
+
+#playButton{
+	-fx-translate-x:200;
+	-fx-translate-y:150;
+	-fx-pref-width:150;
+	-fx-pref-height:100;
+	-fx-font-size: 20;
+}
